@@ -1236,6 +1236,8 @@ teams:
     members:
     - caesarxuchao
     - lavalamp
+    - liggitt
+    - dims
     privacy: closed
   client-go-maintainers:
     description: ""
@@ -1243,6 +1245,8 @@ teams:
     - caesarxuchao
     - lavalamp
     - sttts
+    - liggitt
+    - dims
     privacy: closed
   cloud-provider-gcp-admins:
     description: Admin access to cloud-provider-gcp repo
